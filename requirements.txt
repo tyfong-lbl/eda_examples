@@ -1,0 +1,6 @@
+ipykernel
+numpy
+openpyxl
+pandas
+matplotlib
+faker
